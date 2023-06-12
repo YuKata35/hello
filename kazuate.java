@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberGuessingGame {
+public class  kazuate{
     public static void main(String[] args) {
         // 設定された数
         int targetNumber = 42;
